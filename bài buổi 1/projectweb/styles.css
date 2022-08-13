@@ -1,0 +1,148 @@
+.under_banner2 h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 3.21429em;
+}
+.under_banner2 h5{
+    text-align: center;
+    line-height: 1.7;
+    font-size: 14px;
+    color: #555;
+}
+.under_banner2 img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: cover;
+  max-width: 100%;
+  border: none;
+}
+.under_banner2 p{
+    margin-right: 20%;
+    margin-left: 20%;
+    font-size: 16px;
+    color: #333;
+    font-weight: 300;
+}
+.document h3{
+    text-align: center;
+    font-size:30px;
+}
+.document p{
+    margin-right: 20%;
+    margin-left: 20%;
+    font-size: 16px;
+    color: #333;
+    font-weight: 300;
+}
+
+.poster{
+  object-fit: cover;
+  text-align: center;
+}
+.email_enter{
+    background-image: url("https://cdn.shopify.com/s/files/1/1325/0879/t/12/assets/cta-download-free-tarot-classes-on-your-phone-app-labyrinthos-academy.jpg?v=5960459939912060753163527113");
+    text-align: center;
+    clear: both;
+    background-size: cover;
+    background-repeat: no-repeat;
+    list-style: none;
+    background-color: #0c2722;
+    padding: 0 10px 30px;
+    margin: 40px 0;
+    border: 1px solid #eee;
+}
+.under_document  p{
+text-align: right;
+margin-right: 250px;
+}
+.under_document h2{
+margin-right: 250px;
+}
+.email_enter2{
+    margin-left: 600px;
+    width: 100%;
+    padding: 50px;
+}
+.input_email2{
+    padding: 10px;
+    width: 350px;
+    border: 2px solid;
+    border-radius: 3px;
+    color: rgb(21, 21, 2);
+    background-color: rgb(249, 249, 245);
+}
+.email_enter2{
+    background-color: ivory;
+    border: 2px solid;
+    padding: 5px;
+    width: fit-content;
+}
+.email_button{
+    background-color: #145045;
+    padding: 10px;
+    color: aliceblue;
+}
+.mail {
+
+    background-image: url("https://cdn.shopify.com/s/files/1/1325/0879/t/12/assets/product-feat-golden-thread-tarot-second-edition-modern-tarot-deck_1500x.jpg?v=4890469179663163698");
+}
+
+
+.email {
+    margin-left: 600px;
+    width: 50%;
+    padding: 50px;
+
+}
+
+.input_email {
+    padding: 10px;
+    width: 350px;
+    border: 2px solid;
+    border-radius: 3px;
+    color: rgb(21, 21, 2);
+    background-color: rgb(249, 249, 245);
+
+}
+
+.mail2 {
+    background-color: ivory;
+    border: 2px solid;
+    padding: 5px;
+    width: fit-content;
+}
+
+.input_button_email {
+    background-color: #145045;
+    padding: 10px;
+    color: aliceblue;
+}
+#footer{
+    margin: auto;
+    
+}
+
+td{
+    padding: 5px;
+    width: 300px;
+}
+
+th{
+    text-align: left;
+    padding: 5px;
+}
+
+.text{
+    background-color: #f8f5ef;
+}
+hr{
+    color: #cd9747;
+}
+.text h5{
+    font-size: 18px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #bb9863;
+    padding-top: 20px;
+}
